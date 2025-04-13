@@ -1,0 +1,11 @@
+ID_estacion,hora_pico,num_pasajeros,distancia_estaciones,tipo_transporte,zona,grupo
+1,6-9 AM,300,1.2,Autobus,Centro,0
+2,4-7 PM,450,2.5,Metro,Periferia,2
+3,6-9 AM,150,0.8,Tren,Residencial,1
+4,4-7 PM,320,3.0,Autobus,Centro,0
+5,6-9 AM,200,1.5,Metro,Periferia,1
+6,4-7 PM,400,2.0,Tren,Residencial,2
+7,6-9 AM,250,1.0,Autobus,Centro,1
+8,4-7 PM,380,2.8,Metro,Periferia,2
+9,6-9 AM,180,1.3,Tren,Residencial,1
+10,4-7 PM,310,2.2,Autobus,Centro,0
